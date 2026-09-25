@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 6 |
+| 8 | 6 |
 
 ---
 
@@ -14,10 +14,10 @@
 
 - [brute force](#brute-force) (3)
 - [greedy](#greedy) (2)
-- [implementation](#implementation) (4)
+- [implementation](#implementation) (5)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
-- [strings](#strings) (2)
+- [strings](#strings) (3)
 
 ---
 
@@ -40,6 +40,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1933B | [Turtle Math: Fast Three Task](https://codeforces.com/contest/1933/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1933/B%20-%20Turtle%20Math%3A%20Fast%20Three%20Task/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
@@ -64,6 +65,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.cpp) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
 ---
