@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 6 | 6 |
+| 7 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [brute force](#brute-force) (2)
-- [greedy](#greedy) (1)
+- [brute force](#brute-force) (3)
+- [greedy](#greedy) (2)
 - [implementation](#implementation) (4)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
@@ -25,6 +25,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 2126A | [Only One Digit](https://codeforces.com/contest/2126/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2126/A%20-%20Only%20One%20Digit/solution.cpp) |
 | 2132A | [Homework](https://codeforces.com/contest/2132/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2132/A%20-%20Homework/solution.cpp) |
 
@@ -32,6 +33,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 
 ### implementation
