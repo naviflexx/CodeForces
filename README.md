@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 8 |
+| 11 | 8 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [*special](#special) (1)
 - [brute force](#brute-force) (3)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (7)
 - [math](#math) (3)
 - [number theory](#number-theory) (1)
@@ -42,6 +42,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 337A | [Puzzles](https://codeforces.com/contest/337/problem/A) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/337/A%20-%20Puzzles/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 
