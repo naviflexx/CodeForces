@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 16 |
+| 39 | 16 |
 
 ---
 
@@ -15,15 +15,15 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (7)
+- [brute force](#brute-force) (8)
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (15)
-- [math](#math) (13)
+- [implementation](#implementation) (17)
+- [math](#math) (15)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (12)
@@ -57,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/231/A%20-%20Team/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1856C | [To Become Max](https://codeforces.com/contest/1856/problem/C) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1856/C%20-%20To%20Become%20Max/solution.cpp) |
 | 1881A | [Don't Try to Count](https://codeforces.com/contest/1881/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1881/A%20-%20Don't%20Try%20to%20Count/solution.cpp) |
@@ -119,7 +120,9 @@
 | 158A | [Next Round](https://codeforces.com/contest/158/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/158/A%20-%20Next%20Round/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+| 401A | [Vanya and Cards](https://codeforces.com/contest/401/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/401/A%20-%20Vanya%20and%20Cards/solution.cpp) |
 | 443A | [Anton and Letters](https://codeforces.com/contest/443/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/443/A%20-%20Anton%20and%20Letters/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1772A | [A+B?](https://codeforces.com/contest/1772/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1772/A%20-%20A%2BB%3F/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
@@ -133,6 +136,8 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 401A | [Vanya and Cards](https://codeforces.com/contest/401/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/401/A%20-%20Vanya%20and%20Cards/solution.cpp) |
+| 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 1352A | [Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1352/A%20-%20Sum%20of%20Round%20Numbers/solution.cpp) |
 | 1776L | [Controllers](https://codeforces.com/contest/1776/problem/L) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1776/L%20-%20Controllers/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
