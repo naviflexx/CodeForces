@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 16 |
+| 44 | 16 |
 
 ---
 
@@ -19,11 +19,11 @@
 - [constructive algorithms](#constructive-algorithms) (2)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [games](#games) (1)
+- [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (10)
+- [greedy](#greedy) (11)
 - [implementation](#implementation) (19)
-- [math](#math) (16)
+- [math](#math) (17)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (5)
 - [strings](#strings) (12)
@@ -90,6 +90,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### geometry
@@ -109,6 +110,7 @@
 | 1696B | [NIT Destroys the Universe](https://codeforces.com/contest/1696/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1696/B%20-%20NIT%20Destroys%20the%20Universe/solution.cpp) |
 | 1805B | [The String Has a Target](https://codeforces.com/contest/1805/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1805/B%20-%20The%20String%20Has%20a%20Target/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 2074B | [The Third Side](https://codeforces.com/contest/2074/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2074/B%20-%20The%20Third%20Side/solution.cpp) |
 | 2185B | [Prefix Max](https://codeforces.com/contest/2185/problem/B) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2185/B%20-%20Prefix%20Max/solution.cpp) |
 | 2269A | [SauSaGe Bank](https://codeforces.com/contest/2269/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/2269/A%20-%20SauSaGe%20Bank/solution.cpp) |
@@ -147,6 +149,7 @@
 | 1776L | [Controllers](https://codeforces.com/contest/1776/problem/L) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1776/L%20-%20Controllers/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
+| 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++23 (GCC 14-64, msys2)](https://github.com/naviflexx/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
